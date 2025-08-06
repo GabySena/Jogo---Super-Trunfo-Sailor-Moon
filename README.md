@@ -9,6 +9,6 @@ O jogo segue até que um dos jogadores conquiste todas as cartas. Algumas cartas
 
 </p>
 
-<img width="670" height="2348" align="center" alt="image" src="https://github.com/user-attachments/assets/1057e9e7-ef0f-4693-9bf6-270197246c19" />
+<img width="670" height="2348" src="https://github.com/user-attachments/assets/1057e9e7-ef0f-4693-9bf6-270197246c19" align="center" alt="image" />
 
 
