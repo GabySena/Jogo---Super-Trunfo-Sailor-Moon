@@ -9,6 +9,8 @@
 O jogo segue até que um dos jogadores conquiste todas as cartas. Algumas cartas especiais são chamadas de “Super-Trunfo” e têm o poder de vencer quase todas as outras, com raras exceções.
 
 </p>
+
+<h2>Como Jogar?</h2>
 <div align="center">
 <img width="670" height="2348" src="https://github.com/user-attachments/assets/1057e9e7-ef0f-4693-9bf6-270197246c19" />
 </div>
