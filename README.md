@@ -19,5 +19,7 @@ O jogo segue até que um dos jogadores conquiste todas as cartas. Algumas cartas
 </div>
 
 <h2>⚔ Tela de combate</h2>
+<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/73ea78d3-b40f-41f3-87b5-52eecede8d4a" />
+
 
 
