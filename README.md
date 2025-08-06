@@ -20,9 +20,8 @@ O jogo segue até que um dos jogadores conquiste todas as cartas. Algumas cartas
 
 <h3>Participações:</h3>
 
-<p>[Catarine Tomaz](https://github.com/tomazzcatarine)</p>
-<p>[Maria Gomes](https://github.com/MariaGomesR)</p>
-
+[Catarine Tomaz](https://github.com/tomazzcatarine)<br>
+[Maria Gomes](https://github.com/MariaGomesR)
 
 
 
