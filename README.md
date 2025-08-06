@@ -18,8 +18,11 @@ O jogo segue até que um dos jogadores conquiste todas as cartas. Algumas cartas
 <img width="670" height="2348" src="https://github.com/user-attachments/assets/1057e9e7-ef0f-4693-9bf6-270197246c19" />
 </div>
 
-<h2>⚔ Tela de combate</h2>
-<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/73ea78d3-b40f-41f3-87b5-52eecede8d4a" />
+<h3>Participações:</h3>
+
+[Catarine Tomaz](https://github.com/tomazzcatarine)
+[Maria Gomes](https://github.com/MariaGomesR)
+
 
 
 
