@@ -1,6 +1,7 @@
 <h1 align="center">Super Trunfo - Sailor Moon 🌠</h1>
 
-<img width="1200" height="409" alt="image" src="https://github.com/user-attachments/assets/e2256d7f-e058-42d5-9cfe-74dc36ea2cc9" />
+<img width="540" height="304" alt="image" src="https://github.com/user-attachments/assets/a6244020-19b8-4e9c-b5cc-1faf82dccc53" />
+
 
 
 <h2>🃏 O que é um Super-Trunfo?</h2>
